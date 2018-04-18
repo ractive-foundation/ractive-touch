@@ -3,7 +3,7 @@ var Sandbox = Ractive.extend({
     "<div class='box-container' id='parent'>",
     "<div class='the-box' id='box'",
     "data-swipe-distance='1'",
-    "on-tap='tap'",
+    "on-taps='tap'",
     "on-pan='pan'",
     "on-panend='panEnd'",
     "on-panstart='panStart'",

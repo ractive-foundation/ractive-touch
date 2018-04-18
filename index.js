@@ -24,7 +24,7 @@
         time: 500
       },
       events: [
-        'tap'
+        'taps'
       ]
     },
     doubletap: {
